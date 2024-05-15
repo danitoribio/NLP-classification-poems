@@ -1,0 +1,1 @@
+In this porject we have done web scrapping to obtain poems from a web and apply preprocessing, text vectorization, topic modeling and classification tasks with them. The code is implemented with python and libraries such as pandas, sklearn and gensim.
